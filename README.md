@@ -77,4 +77,3 @@ Then open `american_call_mc_pricing.ipynb` in the browser.
 ## License
 
 Educational use.
-
