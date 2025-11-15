@@ -1,4 +1,4 @@
-# ✅ Cursor Setup Complete!
+# ✅ Setup Complete!
 
 ## What I've Done:
 
