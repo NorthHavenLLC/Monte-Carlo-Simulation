@@ -54,6 +54,11 @@ Then open `american_call_mc_pricing.ipynb` in the browser.
 - **BSM European Call**: ~$15-25 (depends on market conditions)
 - **MC American Call**: ~$15-26 (slightly higher due to early exercise)
 - **Visualizations**: 3 plots stacked vertically with dark background
+  
+<img width="609" height="388" alt="Screenshot 2025-11-15 at 1 54 32 AM" src="https://github.com/user-attachments/assets/15aab731-aa07-44dd-ba24-79cd7ed15f0b" />
+
+<img width="609" height="908" alt="Screenshot 2025-11-15 at 1 55 58 AM" src="https://github.com/user-attachments/assets/97ba97b2-2982-42ce-bd99-94be802553d5" />
+
 
 ## Requirements
 
